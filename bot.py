@@ -29,9 +29,9 @@ def photo_fun(message):
 
     result = get_class(model_path="./keras_model.h5", labels_path="labels.txt", image_path=file_name)
     if result == 1 :
-        result = "ворон"
+        result = "Ворон"
     elif result == 0 :
-        result = "синица"
+        result = "Синица"
     else:
         result = "это что ?(проверьте правильный ли у вас формат картинки)"
     bot.send_message(message.chat.id,result)
