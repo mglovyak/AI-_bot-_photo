@@ -2,7 +2,7 @@ import telebot
 from logic import get_class
 
 # Замени 'TOKEN' на токен твоего бота
-bot = telebot.TeleBot("")
+bot = telebot.TeleBot("7944235498:AAHfZu9NNwSQ-ymT3AQrPPeohQxGNEK5Ep8")
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
@@ -38,4 +38,4 @@ def photo_fun(message):
 
 
 # Запускаем бота
-bot.polling()
+bot.polling("7944235498:AAHfZu9NNwSQ-ymT3AQrPPeohQxGNEK5Ep8")
