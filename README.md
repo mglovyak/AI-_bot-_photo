@@ -3,4 +3,7 @@
 1.Для начала тебе потребуется скачать Visual Studia Code
 2.Затем перенести в Visual Studia Code вот эти файлы 
 ![Alt text](https://github.com/user-attachments/assets/23ff3d2e-405f-4202-8833-7af6501affb4)
+3.Затем тебе нужно создать бота в телеграмме для того чтобы твой код работал
+Пример увидишь на экране
+![Alt text](https://github.com/user-attachments/assets/7fbbec7d-6953-442d-a5f1-1c02411e190e)
 
