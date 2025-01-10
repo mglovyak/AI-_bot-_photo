@@ -2,5 +2,5 @@
 А кстати если интересна эта модель компьютерного зрения,тогда ты её можешь найти ее в папке model.
 1.Для начала тебе потребуется скачать Visual Studia Code
 2.Затем перенести в Visual Studia Code вот эти файлы 
-![Alt text](![Безымянный](https://github.com/user-attachments/assets/23ff3d2e-405f-4202-8833-7af6501affb4))
+![Alt text](https://github.com/user-attachments/assets/23ff3d2e-405f-4202-8833-7af6501affb4)
 
